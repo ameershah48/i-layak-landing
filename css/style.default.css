@@ -1,3 +1,8 @@
+@media only screen and (max-width: 600px) { 
+  .app-showcase{
+    display: none;
+  }
+}
 /*
 =========================================
 =========================================
@@ -1185,7 +1190,7 @@ section {
 .scropll-top-btn:hover, .scropll-top-btn:focus {
   color: #fff;
   text-decoration: none;
-  background: #3c37b5;
+  background: #2563EB;
 }
 
 .device-wrapper {
@@ -1449,8 +1454,8 @@ STYLE SWITCHER FOR DEMO
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #403abf;
-  border-color: #3c37b5;
+  background-color: #1c47a3;
+  border-color: #2563EB;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -1466,7 +1471,7 @@ STYLE SWITCHER FOR DEMO
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #3c37b5;
+  background-color: #2563EB;
   border-color: #3934ab;
 }
 
@@ -2135,7 +2140,7 @@ mark,
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #3c37b5 !important;
+  color: #2563EB !important;
 }
 
 /*
@@ -2227,7 +2232,7 @@ a.text-primary:hover, a.text-primary:focus {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #3c37b5 !important;
+  background-color: #2563EB !important;
 }
 
 .bg-secondary {
@@ -2337,7 +2342,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #3c37b5 !important;
+  color: #2563EB !important;
 }
 
 .text-secondary {
@@ -2404,7 +2409,7 @@ a.text-dark:hover, a.text-dark:focus {
 .badge-primary[href]:hover, .badge-primary[href]:focus {
   color: #fff;
   text-decoration: none;
-  background-color: #3c37b5;
+  background-color: #2563EB;
 }
 
 .badge-secondary {
